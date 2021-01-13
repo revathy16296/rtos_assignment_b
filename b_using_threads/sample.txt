@@ -1,0 +1,6 @@
+this is the sample file for the testing of 
+program no 9 in the assignment given
+in the rtos lab teams by Dr.Mohan JS sir.
+so here the program is written to find the number 
+lines and words in the text file.as per the text
+the line should be 6 and words should count.
