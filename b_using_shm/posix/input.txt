@@ -1,0 +1,2 @@
+this is the file to check the odd and even words.and created by revathy venugopal.
+
